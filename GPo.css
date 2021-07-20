@@ -15,9 +15,9 @@
    --version-latest: "v1.0.8";
    --version-latest-long: "Version: " var(--version-latest) " (Latest) ";
    --version-long: "Version: " var(--version) " (Current) ";
-   --theme-dl: ""
+   --theme-dl: "https://github.com/leeprky/Lode"
 }
-[id*="GoodPick"] .bd-addon-header .bd-meta:before {
+[id*="LodeTheme"] .bd-addon-header .bd-meta:before {
        content:"Build " var(--build) " | ";
    }
 
