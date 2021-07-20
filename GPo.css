@@ -17,7 +17,7 @@
    --version-long: "Version: " var(--version) " (Current) ";
    --theme-dl: ""
 }
-[id*="LodeTheme"] .bd-addon-header .bd-meta:before {
+[id*="GoodPick"] .bd-addon-header .bd-meta:before {
        content:"Build " var(--build) " | ";
    }
 
